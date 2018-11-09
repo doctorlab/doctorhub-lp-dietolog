@@ -1,0 +1,17 @@
+{
+  "name": "doctorhub-lp-dietolog",
+  "type": "static",
+  "alias": [
+    "dietolog.doctorhub.ru"
+  ],
+  "static": {
+    "directoryListing": false,
+    "trailingSlash": true
+  },
+  "scale": {
+    "bru1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
+}
